@@ -1,3 +1,3 @@
-#Fun Project
+# Fun Project
 
-##Motivation
+## Motivation
